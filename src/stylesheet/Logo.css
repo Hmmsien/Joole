@@ -1,0 +1,19 @@
+
+
+.logo__img-wrap {
+    display: flex;
+    align-items: center;
+    height: 110px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.logo__img-wrap img {
+    height: 100%;
+    width: 100%;
+}
+
+.logo__text-wrap{
+    text-align: center;
+    color: #717176;
+}
